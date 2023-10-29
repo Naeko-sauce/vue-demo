@@ -1,4 +1,4 @@
-import App from "./App.vue";
+import App from "@/App.vue";
 import { createApp } from "vue";
 //引入element-puls样式
 import ElementPlus from "element-plus";
