@@ -148,6 +148,9 @@
   },
   "active": "bf24d4fcb72a7e1e",
   "lastOpenFiles": [
+    "le/src/components/pagination/index.vue",
+    "le/src/components/pagination",
+    "le/src/components/index.ts",
     "le/src/assets/icons/shou.svg",
     "le/src/components/Svglcon/index.vue",
     "le/src/components/Svglcon",
@@ -159,8 +162,6 @@
     "le/vite.config.ts.timestamp-1698610446569-f1adfa27a73e4.mjs",
     "le/src/assets/icon/phone.svg",
     "le/src/assets/icon",
-    "le/vite.config.ts.timestamp-1698609479002-28cafbb2d2a7.mjs",
-    "le/package.json.3212882453",
     "项目使用插件.md",
     "README.md",
     "未命名.md",

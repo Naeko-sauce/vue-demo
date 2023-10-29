@@ -18,5 +18,9 @@ app.use(ElementPlus, {
 console.log(import.meta.env)
 //配置先后isvg插件需要的代码
 import 'virtual:svg-icons-register'
-//将应用挂载到挂载点上
+//引入自定义可加载所有插件的文件成为全局组件
+// gloalComponent翻译过来就是：组件
+import gloalComponent from '@/components'
+app.use(gloalComponent)
+//将应用挂载到挂载点
 app.mount("#app");
