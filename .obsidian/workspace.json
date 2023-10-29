@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "aed0ab5d7599e5ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "097a6825e11f701c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf24d4fcb72a7e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d32123832b63ceea",
+    "type": "split",
+    "children": [
+      {
+        "id": "27661eb8081916cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a8521703f8c1e5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa2339c5f44b8ab6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8e90891f01aef3a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "84296473cb804c5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "768a429d5331a7b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b00f4e0e708ab3a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11da74902590e1b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a13e073e5628743",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f3c47975b93de792",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "bf24d4fcb72a7e1e",
+  "lastOpenFiles": [
+    "项目使用插件.md",
+    "README.md",
+    "le/vite.config.ts.timestamp-1698571726966-96def72ecf6f9.mjs",
+    "le/vite.config.ts.timestamp-1698571715776-5be22e0128032.mjs",
+    "le/pnpm-lock.yaml.83708538",
+    "le/_tmp_218116_68cb771b76e86a58d859b19fe4c9151f",
+    "le/vite.config.ts.timestamp-1698570888633-8c618972b11ad.mjs",
+    "le/vite.config.ts.timestamp-1698569232659-80e0ae0d3aec4.mjs",
+    "le/package.json.1808490260",
+    "le/pnpm-lock.yaml.681229947",
+    "le/node_modules/@element-plus",
+    "le/_tmp_168388_ee899c3128892af4de87288a1bca1358",
+    "未命名.md",
+    "le/README.md"
+  ]
+}
