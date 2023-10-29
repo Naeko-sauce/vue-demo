@@ -21,5 +21,7 @@ import 'virtual:svg-icons-register'
 //注册全局组件Svglcon半成品
 import Svglcon from '@/components/Svglcon/index.vue'
 app.component("Svglcon", Svglcon)
+//引入模板全局样式
+import '@/styles/index.scss'
 //将应用挂载到挂载点上
 app.mount("#app");
