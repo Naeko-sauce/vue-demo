@@ -13,5 +13,8 @@ const app = createApp(App);
 app.use(ElementPlus, {
     locale: zhCn//element-puls国际化配置，就是配置中文
 });
+//获取环境配置变量
+// import.meta 是 JavaScript 中 ES6 模块的特殊对象，提供了与模块自身相关的一些元信息。它通常用于访问模块的一些属性和信息
+console.log(import.meta.env)
 //将应用挂载到挂载点上
 app.mount("#app");
