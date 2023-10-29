@@ -18,5 +18,8 @@ app.use(ElementPlus, {
 console.log(import.meta.env)
 //配置先后isvg插件需要的代码
 import 'virtual:svg-icons-register'
+//注册全局组件Svglcon半成品
+import Svglcon from '@/components/Svglcon/index.vue'
+app.component("Svglcon", Svglcon)
 //将应用挂载到挂载点上
 app.mount("#app");
