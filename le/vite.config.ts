@@ -16,6 +16,7 @@ export default defineConfig(({ command }) => {
       symbolId: 'icon-[dir]-[name]',
     }),
     viteMockServe({
+      //解决不了
       localEnabled: command === 'serve',
     }),
     ],
