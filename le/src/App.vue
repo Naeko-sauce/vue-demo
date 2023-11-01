@@ -1,12 +1,8 @@
 <template>
-    <div>
-        <h1>sdaasd</h1>
-        <router-view></router-view>
-        <h1>sda</h1>
-    </div>
+  <div>
+    <router-view></router-view>
+  </div>
 </template>
-<script setup lang="ts">
-
-</script>
+<script setup lang="ts"></script>
 
 <style scoped lang="scss"></style>
