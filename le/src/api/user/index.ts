@@ -1,6 +1,6 @@
 //统一管理用户接口i
 import request from "@/utils/request";
-import { loginForm, loginResponseData } from "./type";
+import { loginForm, loginResponseData, userResponseData } from "./type";
 //统一管理接口
 enum API {
     LOG_URL = "/user/login",
@@ -10,4 +10,4 @@ enum API {
 //登陆接口方法
 export const reqLogin = (data: loginForm) => request.post<any, loginResponseData>(API.LOG_URL, data)
 //获取用户信息方法
-export const reqUserInfo = () => request.get(API.USERINFO_URL)
+export const reqUserInfo = () => request.get<any, userResponseData>(API.USERINFO_URL)
