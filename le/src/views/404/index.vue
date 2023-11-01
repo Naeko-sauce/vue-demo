@@ -1,8 +1,6 @@
 <template>
     <div>
-        <h1>sdaasd</h1>
-        <router-view></router-view>
-        <h1>sda</h1>
+        <h1>一级路由404</h1>
     </div>
 </template>
 <script setup lang="ts">
