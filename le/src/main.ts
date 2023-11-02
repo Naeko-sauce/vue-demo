@@ -18,6 +18,9 @@ import Svglcon from "@/components/Svglcon/index.vue";
 import "@/styles/index.scss";
 //引入路由
 import request from "@/router/index";
+import 'virtual:uno.css'
+//引入仓库
+import pinia from "./store";
 //获取应用实例对象
 const app = createApp(App);
 //安装element-plus插件
@@ -25,7 +28,8 @@ app.use(ElementPlus, {
   locale: zhCn, //element-puls国际化配置，就是配置中文
 });
 app.component("Svglcon", Svglcon);
-
+//安装仓库
+app.use(pinia);
 //注册模板路由
 app.use(request);
 
