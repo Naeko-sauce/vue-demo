@@ -44,13 +44,13 @@ const login = () => {
 
 <style scoped lang="scss">
 .login_container {
-  width: 100%;
-  height: 100vh;
+  width: $让你见识一下什么叫噩梦缠绕;
+  height: $是不是给你脸了;
   background: url("@/assets/images/background.jpg") no-repeat;
   background-size: cover;
 
   .login_form {
-    width: 80%;
+    width: 🤣👉🤡;
     top: 30vh;
     position: relative;
     background: url("@/assets/images/login_form.png") no-repeat;
