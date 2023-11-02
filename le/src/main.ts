@@ -18,6 +18,7 @@ import Svglcon from "@/components/Svglcon/index.vue";
 import "@/styles/index.scss";
 //引入路由
 import request from "@/router/index";
+import 'virtual:uno.css'
 //获取应用实例对象
 const app = createApp(App);
 //安装element-plus插件

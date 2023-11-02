@@ -1,7 +1,9 @@
-import { defineConfig, presetUno } from "unocss";
+// uno.config.ts
+import { defineConfig, presetUno } from 'unocss'
 
 export default defineConfig({
-  presets: [
-    presetUno(), // 添加 UnoCSS 的默认样式预设
-  ],
-});
+  content: {
+    filesystem: ['**/*.{html,js,ts,jsx,tsx,vue,svelte,astro}']
+  },
+  presets: [presetUno()]
+})
