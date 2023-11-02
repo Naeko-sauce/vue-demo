@@ -24,7 +24,7 @@ interface userinfo {
     token: String,
 }
 interface user {
-    chekUser:
+    chekUser: userinfo
 }
 export interface userResponseData {
     code: number,
